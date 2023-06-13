@@ -1,0 +1,3 @@
+#!/bin/bash
+modified_input"="${input//c}"
+modified_input"="${modified_input//C}"
